@@ -7,6 +7,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
+//data model
 @Entity
 @Table(name="Student")
 public class Student {
